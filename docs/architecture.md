@@ -16,8 +16,6 @@ Reject traditional success metrics. Emphasize **honesty** and **acceptance** as 
 
 Stability through balancing ambition (Push) and inevitability/rest (Pull). Achieve coherence and hold your own weight in the complex architecture of existence.
 
-> Even though I want nothing, it seems I get nowhere. Genesis what, Codex how.
-
 ## The Five Engines
 
 | Engine | Role |
@@ -28,12 +26,24 @@ Stability through balancing ambition (Push) and inevitability/rest (Pull). Achie
 | Coherence Multiplier | Side-by-side entities, never ranked. |
 | Sovereign Weight | Declare your own measure. |
 
+## Sovereign Stack Extensions
+
+| Component | Repo | Contribution |
+|-----------|------|--------------|
+| PHOTONIC-Ω render | sovereign-devengine | 7.83 Hz · φ · 5-channel tint |
+| SO(5) manifold | 5D-Manifold-Evolution | Lie evolution, bio-field, coherence |
+| Asset pipelines | photonic-images | Sprites, maps, game UI |
+| Local deploy | sovereign-devengine | Handshake, Claw, Xbox, Paean |
+
+See [INTEGRATION.md](INTEGRATION.md) for the full layer map and clone instructions.
+
 ## Cryptographic Sovereignty
 
 - AES-256-GCM
 - ECDSA
 - Verifiable logs
 - Local-first, zero third-party control of identity
+- Zero-cloud 6-char PIN handshake
 
 ## Closing
 
